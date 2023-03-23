@@ -1,31 +1,67 @@
-body{
-    background-color: rgba(173, 196, 194, 0.809);
-    font-family: sans-serif;
-    text-align: center;
+body {
+    background-color: #F2F2F2;
+    font-family: 'Arizonia', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-h1{
-    margin-top: 13rem;;
-}
 .calculator {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 150px;
+    background-color: #A6A6A6;
+    max-width: 220px;
+    max-height: 500px;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 2px #9b9b9b;
+    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.4);
 }
 
 .display {
-    background-color: #6a5757;
-    padding: 20px;
+    background-color: none;
+    padding: 10px;
     border-radius: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
+
+}
+
+.display h2 {
+    color: #404040;
+    text-shadow: 2px 2px 5px #F2F2F2;
+    font-size: 2rem;
+    display: flex;
+    justify-content: right;
+    margin: 0px 20px;
+}
+
+#input {
+    color: #0D0D0D;
+    background-color: #455952;
+    border: solid #404040 10px;
+    
+    border-radius: 5px;
+    padding: 20px;
+}
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.4rem;
+    display: flex;
+    justify-content: right;
+    margin: 5PX 20px;
+    color: #404040;
 }
 
 .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
+    text-shadow: 2px 2px 5px #F2F2F2;
 }
 
 button {
@@ -34,10 +70,28 @@ button {
     border-radius: 5px;
     font-size: 20px;
     cursor: pointer;
-    background-color: #515952;
+    box-shadow: 2px 2px 5px #404040;
+
+}
+
+
+
+button:nth-of-type(1),
+button:nth-of-type(2) {
+    background-color: #8C4667;
+    color: #F2F2F2;
+}
+
+
+button:nth-of-type(n+3) {
+    background-color: #0D0D0D;
+    color: #F2F2F2;
 }
 
 button:hover {
-    background-color: #857f7f;
+    background-color: #404040;
 }
 
+button:nth-of-type(n+5):not(:nth-of-type(8)):not(:nth-of-type(12)):not(:nth-of-type(16)):not(:nth-of-type(20)):hover {
+    background-color: #404040;
+}

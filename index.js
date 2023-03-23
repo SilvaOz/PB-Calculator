@@ -1,8 +1,8 @@
 'use strict';
 class Calculator {
     constructor(PI, E) {
-        this.PI = PI;
-        this.E = E;
+        this.PI = 3.141592653589793;
+        this.E = 2.718281828459045;
     }
     //---Glitter---
     get pi() {
@@ -55,7 +55,7 @@ class Calculator {
         }
     }
 }
-const calculator = new Calculator(3.141592653589793, 2.718281828459045);
+const calculator = new Calculator();
 
 
 //Html buttons onclick and id input
