@@ -42,7 +42,7 @@ class Calculator {
         return x % y;
     }
     elevate(x, y) {
-        return Math.pow(x, y);
+        return Math.pow(x,y);
     }
     sqrt(x) {
         return Math.sqrt(x);
