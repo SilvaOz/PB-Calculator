@@ -43,12 +43,12 @@ You can access the project at the following link: [https://github.com/silvaoz/PB
 - JavaScript
 
 ## Contributors
-
-- [silvaoz](https://github.com/silvaoz) - Main developer
+- [<img src="https://avatars.githubusercontent.com/u/116160651?v=4" width="100px;"/><br /><sub>Oscar Silva</sub>](https://github.com/silvaoz)
+ 
 
 ## Project Developers
 
-- [silvaoz](https://github.com/silvaoz)
+- [Oscar Silva](https://github.com/silvaoz)
 
 ## License
 
