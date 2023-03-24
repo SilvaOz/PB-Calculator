@@ -1,4 +1,4 @@
-# Calculator - One 先生
+# Calculator - The O.S. 
 
 ![Calculator image](https://github.com/SilvaOz/PB-Calculator/blob/main/images/calculator.jpg)
 
@@ -22,7 +22,7 @@
 
 ## Project Description
 
-Calculator - The 先生 is a digital calculator that allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division. It was developed by [silvaoz](https://github.com/silvaoz) as a personal project in a programming course to improve their programming skills and become familiar with GitHub.
+The Onesensei is a digital calculator that allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division. It was developed by [silvaoz](https://github.com/silvaoz) as a personal project in a programming course to improve their programming skills and become familiar with GitHub.
 
 ## Project Status
 
