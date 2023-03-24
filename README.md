@@ -1,32 +1,55 @@
-# Calculator|The 先生|
+# Calculator - One 先生
 
-![Calculator banner](https://github.com/SilvaOz/PB-Calculator/blob/main/images/calculator.jpg)
+![Calculator image](https://github.com/SilvaOz/PB-Calculator/blob/main/images/calculator.jpg)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Silvaoz/PB-Calculator?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Silvaoz/PB-Calculator?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/Silvaoz/PB-Calculator?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/Silvaoz/PB-Calculator?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Silvaoz/PB-Calculator?style=flat-square)
+## Badges
 
-## Índice
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Estado del Proyecto](#estado-del-proyecto)
-- [Demostración de funciones y aplicaciones](#demostración-de-funciones-y-aplicaciones)
-- [Acceso al Proyecto](#acceso-al-proyecto)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Personas Contribuyentes](#personas-contribuyentes)
-- [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
-- [Licencia](#licencia)
+[![License](https://img.shields.io/github/license/silvaoz/PB-Calculator)](https://github.com/silvaoz/PB-Calculator/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/silvaoz/PB-Calculator)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/silvaoz/PB-Calculator)
+![GitHub last commit](https://img.shields.io/github/last-commit/silvaoz/PB-Calculator)
 
-## Descripción del Proyecto
-Este es un proyecto que consiste en una calculadora digital básica. La calculadora es de código abierto y se puede utilizar para realizar cálculos matemáticos simples. 
+## Table of Contents
 
-## Estado del Proyecto
-El proyecto se encuentra actualmente en estado activo. Se aceptan contribuciones y correcciones de errores. 
+- [Project Description](#Project-Description)
+- [Project Status](#Project-Status)
+- [Functionality and Applications Demo](#Functionality-and-Applications-Demo)
+- [Project Access](#Project-Access)
+- [Technologies Used](#Technologies-used)
+- [Contributors](#Contributors)
+- [Project Developers](#Project-Developers)
+- [License](#License)
 
-## Demostración de funciones y aplicaciones
-Puede ver una demostración de la calculadora [aquí](https://silvaoz.github.io/PB-Calculator/).
+## Project Description
 
-## Acceso al Proyecto
-El proyecto se puede descargar desde el siguiente enlace:
-- [Repositorio de GitHub](https://github.com/Silv
+Calculator - The 先生 is a digital calculator that allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division. It was developed by [silvaoz](https://github.com/silvaoz) as a personal project in a programming course to improve their programming skills and become familiar with GitHub.
+
+## Project Status
+
+The project is currently in development, and new features are expected to be added in the future.
+
+## Functionality and Aplications Demo
+
+You can see a demo of the project at [this link](https://silvaoz.github.io/PB-Calculator/).
+
+## Project Status
+
+You can access the project at the following link: [https://github.com/silvaoz/PB-Calculator](https://github.com/silvaoz/PB-Calculator)
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Contributors
+
+- [silvaoz](https://github.com/silvaoz) - Main developer
+
+## Project Developers
+
+- [silvaoz](https://github.com/silvaoz)
+
+## License
+
+This project is licensed under the MIT License. You can find more information in [LICENSE](https://github.com/silvaoz/PB-Calculator/blob/main/LICENSE).
