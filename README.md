@@ -22,7 +22,7 @@
 
 ## Project Description
 
-The Onesensei is a digital calculator that allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division. It was developed by [silvaoz](https://github.com/silvaoz) as a personal project in a programming course to improve their programming skills and become familiar with GitHub.
+The Onesensei is a digital calculator that allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division. It was developed by [Oscar Silva](https://github.com/silvaoz) as a personal project in a programming course to improve their programming skills and become familiar with GitHub.
 
 ## Project Status
 
