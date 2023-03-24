@@ -1,6 +1,6 @@
 # Calculator - The O.S. 
 
-![Calculator image](https://github.com/SilvaOz/PB-Calculator/blob/main/images/calculator.jpg)
+<img src="https://github.com/SilvaOz/PB-Calculator/blob/main/images/calculator.jpg" width="300">
 
 ## Badges
 
