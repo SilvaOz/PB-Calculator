@@ -1,6 +1,6 @@
 # Calculator|The 先生|
 
-![Calculator banner](https://silvaoz.github.io/PB-Calculator/img/banner.png)
+![Calculator banner](https://github.com/SilvaOz/PB-Calculator/blob/main/images/calculator.jpg)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Silvaoz/PB-Calculator?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Silvaoz/PB-Calculator?style=flat-square)
