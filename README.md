@@ -1,47 +1,32 @@
-Calculator "The 先生" O.S. |M-2023|
-![](https://github.com/SilvaOz/PB-Calculator/blob/main/images/calculator.jpg)
+# Calculator|The 先生|
 
-Calculator Cover Image
+![Calculator banner](https://silvaoz.github.io/PB-Calculator/img/banner.png)
 
-License: MIT
-Table of Contents
+![GitHub last commit](https://img.shields.io/github/last-commit/Silvaoz/PB-Calculator?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Silvaoz/PB-Calculator?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/Silvaoz/PB-Calculator?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Silvaoz/PB-Calculator?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Silvaoz/PB-Calculator?style=flat-square)
 
-    Description
-    Project Status
-    Demo
-    Access
-    Technologies Used
-    Contributors
-    Developers
-    License
+## Índice
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Estado del Proyecto](#estado-del-proyecto)
+- [Demostración de funciones y aplicaciones](#demostración-de-funciones-y-aplicaciones)
+- [Acceso al Proyecto](#acceso-al-proyecto)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Personas Contribuyentes](#personas-contribuyentes)
+- [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
+- [Licencia](#licencia)
 
-Description
+## Descripción del Proyecto
+Este es un proyecto que consiste en una calculadora digital básica. La calculadora es de código abierto y se puede utilizar para realizar cálculos matemáticos simples. 
 
-This project is a digital calculator named "The 先生" O.S. |M-2023|. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It also supports parentheses and decimal point operations. The calculator has a simple and sleek design, making it easy to use and understand.
-Project Status
+## Estado del Proyecto
+El proyecto se encuentra actualmente en estado activo. Se aceptan contribuciones y correcciones de errores. 
 
-The project is completed and functional. However, there is always room for improvement and future updates.
-Demo
+## Demostración de funciones y aplicaciones
+Puede ver una demostración de la calculadora [aquí](https://silvaoz.github.io/PB-Calculator/).
 
-Calculator Demo GIF
-Puedes encontrar una demostración en vivo de mi proyecto [aquí](https://silvaoz.github.io/PB-Calculator/).
-
-You can access the calculator through this link: Calculator "The 先生" O.S. |M-2023|
-Technologies Used
-
-The calculator was created using the following technologies:
-
-    HTML
-    CSS
-    JavaScript
-
-Contributors
-
-This project was developed by one person.
-Developers
-
-    (Oscar Silva) OneSensei
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Acceso al Proyecto
+El proyecto se puede descargar desde el siguiente enlace:
+- [Repositorio de GitHub](https://github.com/Silv
