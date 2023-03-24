@@ -28,7 +28,7 @@ The Onesensei is a digital calculator that allows you to perform basic mathemati
 
 The project is currently in development, and new features are expected to be added in the future.
 
-## Functionality and Aplications Demo
+## Functionality and Applications Demo
 
 You can see a demo of the project at [this link](https://silvaoz.github.io/PB-Calculator/).
 
