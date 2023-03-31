@@ -1,4 +1,3 @@
-'use strict';
 class Calculator {
     constructor(PI, E) {
         this.PI = 3.141592653589793;
@@ -75,4 +74,3 @@ function calculate() {
     const input = document.getElementById("input");
     input.value = calculator.evaluate(input.value);
 }
-

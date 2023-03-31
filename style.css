@@ -1,7 +1,6 @@
 body {
     margin: 0;
     background-color: #F2F2F2;
-    font-family: 'Arizonia', cursive;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -19,7 +18,6 @@ a {
     align-items: center;
     justify-content: center;
 }
-
 a:hover {
     color: #8C4667;
 }
@@ -34,17 +32,19 @@ a:hover {
     max-height: 500px;
     padding: 10px;
     border-radius: 15px;
-    border: solid 2px #9b9b9b;
+    border: solid 3px #9b9b9b;
     box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.4);
 }
+
 .display {
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 0px;
 
-
 }
+
 .display h2 {
+    font-family: 'Arizonia', cursive;
     color: #404040;
     text-shadow: 2px 2px 5px #F2F2F2;
     font-size: 2rem;
@@ -52,14 +52,16 @@ a:hover {
     justify-content: right;
     margin: 0px 20px;
 }
+
 #input {
     color: #0D0D0D;
     background-color: #455952;
     border: solid #404040 10px;
-    text-align: right;
     border-radius: 5px;
     padding: 20px;
+    text-align: right;
 }
+
 span {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.4rem;
@@ -72,7 +74,7 @@ span {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
-    text-shadow: 2px 2px 5px #F2F2F2;
+    
 }
 button {
     padding: 10px;
@@ -81,6 +83,9 @@ button {
     font-size: 20px;
     cursor: pointer;
     box-shadow: 2px 2px 5px #404040;
+}
+button:hover {
+    box-shadow: none;
 }
 button:nth-of-type(1),
 button:nth-of-type(2) {
@@ -91,9 +96,4 @@ button:nth-of-type(n+3) {
     background-color: #0D0D0D;
     color: #F2F2F2;
 }
-button:hover {
-    box-shadow: none;
-}
-button:nth-of-type(n+5):not(:nth-of-type(8)):not(:nth-of-type(12)):not(:nth-of-type(16)):not(:nth-of-type(20)):hover {
-    box-shadow: none;
-}
+
